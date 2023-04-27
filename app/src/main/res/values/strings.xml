@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ClickButtonGetMoney</string>
+    <string name="name_game">ClickButtonGetMoney</string>
+    <string name="register">Зарегистрироваться</string>
+    <string name="sign_in">Войти</string>
+    <string name="register_app">Register App</string>
+    <string name="txt_view_sign_in">Войдите в свою учетную запись</string>
+
+    <string name="register_email">Email</string>
+    <string name="register_password">Пароль</string>
+    <string name="register_name_player">Введите имя</string>
+    <string name="register_telephone">Телефон</string>
+</resources>

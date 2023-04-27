@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/liner_layout_register"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <EditText
+        android:id="@+id/txtEmail_register"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        android:hint="@string/register_email"
+        android:textColor="@color/grey"
+        android:textSize="20sp"
+        android:layout_margin="5dp"
+        tools:ignore="TextFields" />
+
+    <EditText
+        android:id="@+id/txtPassword_register"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:hint="@string/register_password"
+        android:textColor="@color/grey"
+        android:layout_margin="5dp"
+        android:textSize="20sp"
+        android:inputType="textPassword"
+        />
+
+    <EditText
+        android:id="@+id/txtNamePlayer_register"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:hint="@string/register_name_player"
+        android:textColor="@color/grey"
+        android:layout_margin="5dp"
+        android:textSize="20sp"
+        />
+
+    <EditText
+        android:id="@+id/txtTelephone_register"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:hint="@string/register_telephone"
+        android:textColor="@color/grey"
+        android:layout_margin="5dp"
+        android:textSize="20sp"
+        android:inputType="number"
+        />
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>
