@@ -24,7 +24,7 @@ class MainActivity : AppCompatActivity() {
     var auth: FirebaseAuth? = null
     var db: FirebaseDatabase? = null
     var users: DatabaseReference? = null
-    var root: LinearLayout? = null
+//    var root: LinearLayout? = null
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
