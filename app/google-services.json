@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1037033826531",
+    "project_id": "ckick-button-get-money",
+    "storage_bucket": "ckick-button-get-money.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037033826531:android:956e28989361bacf867dd6",
+        "android_client_info": {
+          "package_name": "com.katoklizm.goldclickbutton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037033826531-ld1mnu3psh74bmbscm0ii03sure2p1hl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.katoklizm.goldclickbutton",
+            "certificate_hash": "bdeeda5e37e16485f8bd109b87ed06eefb3e45f1"
+          }
+        },
+        {
+          "client_id": "1037033826531-cf7potou2frpcuacht6h8vjbsjpasijb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4JBb5W5_CRIEXixanvIGiKnUx43ymozA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037033826531-cf7potou2frpcuacht6h8vjbsjpasijb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
