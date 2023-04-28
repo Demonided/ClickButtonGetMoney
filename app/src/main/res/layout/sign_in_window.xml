@@ -9,7 +9,7 @@
 
 
     <EditText
-        android:id="@+id/txtEmail_register"
+        android:id="@+id/txtEmail_sign_in"
         android:layout_width="match_parent"
         android:layout_height="80dp"
         android:ems="10"
@@ -21,7 +21,7 @@
         tools:ignore="TextFields" />
 
     <EditText
-        android:id="@+id/txtPassword_register"
+        android:id="@+id/txtPassword_sign_in"
         android:layout_width="match_parent"
         android:layout_height="80dp"
         android:hint="@string/register_password"
@@ -30,27 +30,5 @@
         android:textSize="20sp"
         android:inputType="textPassword"
         />
-
-    <EditText
-        android:id="@+id/txtNamePlayer_register"
-        android:layout_width="match_parent"
-        android:layout_height="80dp"
-        android:hint="@string/register_name_player"
-        android:textColor="@color/black"
-        android:layout_margin="5dp"
-        android:textSize="20sp"
-        />
-
-    <EditText
-        android:id="@+id/txtTelephone_register"
-        android:layout_width="match_parent"
-        android:layout_height="80dp"
-        android:hint="@string/register_telephone"
-        android:textColor="@color/black"
-        android:layout_margin="5dp"
-        android:textSize="20sp"
-        android:inputType="number"
-        />
-
 
 </androidx.appcompat.widget.LinearLayoutCompat>
